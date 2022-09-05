@@ -2,7 +2,7 @@
 
 
 <p align ="center">
- <img src="/assets/twitter-data.png">
+ <img src="Sentiment-analysis-of-Twitter-Social.png">
 </p>
 
 
